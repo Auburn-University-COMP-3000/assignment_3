@@ -26,11 +26,17 @@ Write a program that assigns passengers seats in an airplane. Assume the airplan
 has 7 rows of 4 seats:
 
 1ABCD
+
 2ABCD
+
 3ABCD
+
 4ABCD
+
 5ABCD
+
 6ABCD
+
 7ABCD
 
 Your program should display the available seats in the airplane and ask the user to enter
